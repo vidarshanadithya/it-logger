@@ -34,13 +34,6 @@
       "tech": "John Doe",
       "date": "2020-12-09T11:32:28.148Z",
       "id": 5
-    },
-    {
-      "message": "Serviced PC 020",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2020-12-09T11:32:40.891Z",
-      "id": 6
     }
   ],
   "techs": [
