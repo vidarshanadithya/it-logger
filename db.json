@@ -1,40 +1,62 @@
 {
-  "logs":[
+  "logs": [
     {
-      "id":1,
-      "message":"Changed hard drive on workstation 005",
-      "attention":false,
-      "date":"03-02-2019",
-      "tech":"Sam Smith"
+      "message": "Fixed HDD on workstation 005",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-12-09T11:31:01.115Z",
+      "id": 1
     },
     {
-      "id":2,
-      "message":"Workstation 007 not posting",
-      "attention":true,
-      "date":"03-02-2019",
-      "tech":"John Doe"
-    },    {
-      "id":3,
-      "message":"Changed memory on workstation 050",
-      "attention":false,
-      "date":"03-02-2019",
-      "tech":"Sara Wilson"
+      "message": "Changed RAM on PC 023",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2020-12-09T11:31:21.487Z",
+      "id": 2
+    },
+    {
+      "message": "Installed OS on PC 120",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-12-09T11:31:43.782Z",
+      "id": 3
+    },
+    {
+      "message": "Installed utilities on Workstation 110",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-12-09T11:32:05.746Z",
+      "id": 4
+    },
+    {
+      "message": "Fixed motherboard on PC 443",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-12-09T11:32:28.148Z",
+      "id": 5
+    },
+    {
+      "message": "Serviced PC 020",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2020-12-09T11:32:40.891Z",
+      "id": 6
     }
   ],
-  "techs":[
+  "techs": [
     {
-      "id":1,
-      "firstname":"John",
+      "id": 1,
+      "firstname": "John",
       "lastname": "Doe"
     },
     {
-      "id":2,
-      "firstname":"Sam",
+      "id": 2,
+      "firstname": "Sam",
       "lastname": "Smith"
     },
     {
-      "id":3,
-      "firstname":"Sara",
+      "id": 3,
+      "firstname": "Sara",
       "lastname": "Wilson"
     }
   ]
