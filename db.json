@@ -1,18 +1,18 @@
 {
   "logs": [
     {
-      "message": "Fixed HDD on workstation 005",
+      "id": 1,
+      "message": "Fixed HDD on workstation 002",
       "attention": true,
       "tech": "John Doe",
-      "date": "2020-12-09T11:31:01.115Z",
-      "id": 1
+      "date": "2020-12-09T12:02:24.761Z"
     },
     {
-      "message": "Changed RAM on PC 023",
-      "attention": true,
+      "id": 2,
+      "message": "Changed RAM on PC 499",
+      "attention": false,
       "tech": "Sara Wilson",
-      "date": "2020-12-09T11:31:21.487Z",
-      "id": 2
+      "date": "2020-12-09T12:02:31.549Z"
     },
     {
       "message": "Installed OS on PC 120",
